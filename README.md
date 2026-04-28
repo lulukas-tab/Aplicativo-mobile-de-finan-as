@@ -9,6 +9,11 @@
 > **⚠️ AVISO LEGAL:** Este repositório trata-se **exclusivamente de uma atividade acadêmica**, desenvolvida para a disciplina de Programação para dispositivo móveis do curso de Ciência da Computação. Este projeto não possui fins lucrativos ou comerciais e. Trata-se apenas de um projeto de estudo e simulação técnica.
 ##  Sobre o Projeto
 
+ Download
+[Baixar APK v1.1](https://drive.google.com/file/d/1SxsDLGaKEI9CYyiGrB2aIFNG2ygCblxF/view?usp=drive_link) Versão para Android.
+ 
+
+
 **FinanceFlow** é um aplicativo mobile de gerenciamento de finanças pessoais desenvolvido como trabalho acadêmico da disciplina de **Programação para Dispositivos Móveis** do curso de **Ciência da Computação**.
 
 O aplicativo permite que usuários registrem, visualizem e gerenciem suas transações financeiras (receitas e despesas) de forma intuitiva e eficiente, com armazenamento local de dados e interface responsiva para dispositivos Android e iOS.
