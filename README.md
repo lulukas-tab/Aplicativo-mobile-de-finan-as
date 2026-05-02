@@ -1,4 +1,4 @@
-# Aplicativo-mobile-de-finan-as
+# Aplicativo-mobile-finan
 # FinanceFlow - Gerenciador de Finanças Pessoais
 
 [![React Native](https://img.shields.io/badge/React%20Native-0.81.5-61dafb?style=flat-square&logo=react)](https://reactnative.dev/)
